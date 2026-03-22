@@ -5,8 +5,8 @@
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
 # EQUIPMENTS REQUIRED
 
-Desktop computer
-Cisco Packet Tracer 5.0 Software.
+- Desktop computer
+- Cisco Packet Tracer 5.0 Software.
 
 
 # PROCEDURE
